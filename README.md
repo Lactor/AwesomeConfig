@@ -1,0 +1,2 @@
+# AwesomeConfig
+My Awesome Config
